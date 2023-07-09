@@ -1,0 +1,11 @@
+.logo img {
+    width: 100px;
+    height: 50px;
+}
+.myCanvas {
+  background-color: grey;
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 1254px;
+  height: 300px;
+}
