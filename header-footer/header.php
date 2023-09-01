@@ -11,7 +11,6 @@
       	<a href="#">News</a>
       	<a href="#">Events</a>
       	<a href="#">Upcoming</a>
-      	<a href="#">Galleries</a>
       	<a href="#">Forums</a>
       </div>
     </body>
