@@ -1,14 +1,14 @@
 <?php require_once "../header-footer/topnav.php";?>
 <DOCTYPE html>
+  <html lang="en">
   <head>
     <title>Kibwona Miracle Centre Church</title>
     <link rel="stylesheet" href="../sourcefiles/CSS/images.css">
     <link rel="stylesheet" href="../sourcefiles/CSS/content.css">
+    <link rel="stylesheet" href="../sourcefiles/CSS/body.css">
   </head>
-
-  <body>
-
-<?php require_once "../header-footer/sidebars.php";?>
+  <body class="homepagebody">
+  <?php require_once "../header-footer/sidebars.php";?>
 <canvas id="myCanvas" class="myCanvas">
   Your browser does not support the HTML canvas tag.
 </canvas>
