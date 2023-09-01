@@ -16,9 +16,10 @@
                 <a href="#">Activities</a>
                 <a href="#">Location</a>
                 <a href="#">Services</a>
-                <a href="#">Our Projects</a>
+                <a href="#">Projects</a>
                 <a href="#">Online Giving</a>
                 <a href="#">Donations</a>
+                <a href="../homepages/leadership.php">Our Leadership</a>
                 <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                   <i class="fa fa-bars"></i>
                 </a>
