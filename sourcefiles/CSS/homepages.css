@@ -1,0 +1,36 @@
+.homepage-links {
+  position: absolute;
+  top: 5%;
+  left: 50%;
+   }
+.homepage-links a {
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.homepage-links a:hover {
+  text-decoration: underline;
+}
+
+.media-dropdown {
+  position: relative;
+  display: inline-block;
+  color: white;
+}
+/* Style for the media links */
+.dropdown-links a {
+  padding: 5px 3px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-links {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+}
+.media-dropdown:hover .dropdown-links {
+  display: block;
+}
+.dropdown-links a:hover {
+
+}

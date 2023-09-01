@@ -4,8 +4,11 @@
 }
 .myCanvas {
   background-color: grey;
-  margin-left: 50px;
-  margin-right: 50px;
-  width: 1254px;
-  height: 300px;
+  width: 100%;
+  height: 400px;
+}
+.myCanvasVideo {
+  background-color: grey;
+  width: 100%;
+  height: 500px;
 }
